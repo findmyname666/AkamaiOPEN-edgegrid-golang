@@ -24,8 +24,9 @@ func TestListEnrollments(t *testing.T) {
 		"200 OK": {
 			params:         ListEnrollmentsRequest{ContractID: "Contract-123"},
 			responseStatus: http.StatusOK,
-			responseBody: ` 
+			responseBody: `
 {"enrollments":[ {
+  "id": "10001",
   "location" : "/cps-api/enrollments/1",
   "ra" : "third-party",
   "validationType" : "third-party",

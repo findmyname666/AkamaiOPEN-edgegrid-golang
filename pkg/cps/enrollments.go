@@ -47,6 +47,7 @@ type (
 
 	// Enrollment represents a CPS enrollment object. It is used both as a request body for enrollment creation and response body while fetching enrollment by ID
 	Enrollment struct {
+		ID                             string                `json:"id"`
 		AdminContact                   *Contact              `json:"adminContact"`
 		AutoRenewalStartTime           string                `json:"autoRenewalStartTime,omitempty"`
 		CertificateChainType           string                `json:"certificateChainType,omitempty"`
