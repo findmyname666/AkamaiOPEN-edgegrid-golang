@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v7/pkg/edgegrid"
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v7/pkg/session"
+	"github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7/pkg/edgegrid"
+	"github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7/pkg/session"
 	"github.com/stretchr/testify/require"
 	"github.com/tj/assert"
 )

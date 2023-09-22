@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v7/pkg/tools"
+	"github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7/pkg/tools"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

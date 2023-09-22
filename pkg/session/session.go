@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v7/pkg/edgegrid"
+	"github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7/pkg/edgegrid"
 	"github.com/apex/log"
 	"github.com/apex/log/handlers/discard"
 )

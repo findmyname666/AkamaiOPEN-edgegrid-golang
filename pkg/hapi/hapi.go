@@ -6,7 +6,7 @@ package hapi
 import (
 	"errors"
 
-	"github.com/akamai/AkamaiOPEN-edgegrid-golang/v7/pkg/session"
+	"github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7/pkg/session"
 )
 
 var (
