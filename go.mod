@@ -1,4 +1,4 @@
-module github.com/akamai/AkamaiOPEN-edgegrid-golang/v7
+module github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7
 
 go 1.18
 
