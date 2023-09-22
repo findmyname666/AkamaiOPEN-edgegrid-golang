@@ -28,4 +28,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
 
-replace github.com/akamai/AkamaiOPEN-edgegrid-golang/v7 v7.3.0 => github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7 v7.3.1
+replace github.com/akamai/AkamaiOPEN-edgegrid-golang/v7 v7.3.0 => github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7 v7.3.2
