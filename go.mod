@@ -1,4 +1,4 @@
-module github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7
+module github.com/akamai/AkamaiOPEN-edgegrid-golang/v7
 
 go 1.18
 
@@ -27,3 +27,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
+
+replace github.com/akamai/AkamaiOPEN-edgegrid-golang/v7 v7.3.0 => github.com/findmyname666/AkamaiOPEN-edgegrid-golang/v7 v7.3.1
